@@ -1,5 +1,4 @@
-the words
-the
-and 
+the sizes
 big 
 small
+medium
