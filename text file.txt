@@ -2,3 +2,5 @@ the sizes
 big 
 small
 medium
+large
+tiny
